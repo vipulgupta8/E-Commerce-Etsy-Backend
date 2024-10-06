@@ -75,12 +75,17 @@ To run this project locally, follow these steps:
     ```bash
     git clone https://github.com/vipulgupta8/E-Commerce-Etsy-Backend.git
     ```
-2. **Install dependencies**:
+2. **Go in the projecr folder**
+
+     ```bash
+     cd E-Commerce-Etsy-Backend
+     ```
+3. **Install dependencies**:
 
     ```bash
     npm install
     ```
-3. **Add Mongo Url, PORT and JWT Secret in .env file**
+4. **Add Mongo Url, PORT and JWT Secret in .env file**
 
     ```env
     PORT = 
