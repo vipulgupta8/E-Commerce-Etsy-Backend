@@ -73,7 +73,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/vipulgupta8/E-CommerceEtsy-Backend.git
+    git clone https://github.com/vipulgupta8/E-Commerce-Etsy-Backend.git
     ```
 2. **Install dependencies**:
 
